@@ -2,4 +2,6 @@
 
 ### Higher Order Component
 
-[Original code](https://www.udemy.com/react-redux/)
+[Course](https://www.udemy.com/react-redux/)
+
+[Original code](https://github.com/StephenGrider/ReduxSimpleStarter.git)
